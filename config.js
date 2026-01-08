@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767899025094_0",
+      "id": "q_auto_1767899287660_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767899025094_1",
+      "id": "q_auto_1767899287660_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767899025094_2",
+      "id": "q_auto_1767899287660_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -265,8 +265,8 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/mikeyprior/",
-      "instagram": "https://www.instagram.com/yourfavouritebroker"
+      "facebook": "https://www.facebook.com/ThePriorGroupRealEstate/",
+      "instagram": "https://www.instagram.com/thepriorgroup"
     },
     "agentContact": {
       "name": "Michael Prior",
@@ -282,7 +282,7 @@ const config = {
     "brokerageName": "Revel Realty Inc., Brokerage",
     "address": "848 College St",
     "email": "mike@thepriorgroup.com",
-    "phone": "6473767367",
+    "phone": "(647) 376-7367",
     "copyrightOwner": "Michael Prior"
   },
   "deploymentInfo": {
