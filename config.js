@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767905651101_0",
+      "id": "q_auto_1767905677367_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767905651101_1",
+      "id": "q_auto_1767905677367_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767905651101_2",
+      "id": "q_auto_1767905677367_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -278,7 +278,7 @@ const config = {
     "organizerLogoUrl": "https://www.thepriorgroup.com/wp-content/uploads/2021/12/Team-Menu-e1639414861940.jpg",
     "secondaryLogoUrl": "https://i.ibb.co/PZXxfR2P/Untitled-design-52.png",
     "secondaryLogoAlt": "Michael Prior",
-    "organizerName": "Michael Prior",
+    "organizerName": "The Prior Group",
     "brokerageName": "Revel Realty Inc., Brokerage",
     "address": "848 College St",
     "email": "mike@thepriorgroup.com",
