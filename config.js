@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win $300 Lardo Valentine’s Date Night – Free Entry!",
     "navBrandLogoText": "Michael Prior",
-    "privacyPolicyLink": "https://docs.google.com/document/d/13ERdZ2TanyfTmhqzC2oWZIdyT7E1kZdlz0b10wYMrNg/edit?tab=t.0"
+    "privacyPolicyLink": "https://www.thepriorgroup.com/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>$300 to Lardo</span> for Valentine’s Date Night!",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767909062102_0",
+      "id": "q_auto_1767909099109_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767909062102_1",
+      "id": "q_auto_1767909099109_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767909062102_2",
+      "id": "q_auto_1767909099109_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
