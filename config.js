@@ -41,7 +41,7 @@ const config = {
         "alt": "Cozy table for two at Lardo on Valentine’s Day"
       },
       {
-        "src": "https://i.ibb.co/CKjM9q5v/Screenshot-2026-01-08-at-2-26-34-PM.png",
+        "src": "https://i.ibb.co/Q3GY8RQc/DINNER.webp",
         "alt": "Beautiful plated dishes at a romantic restaurant"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767906809227_0",
+      "id": "q_auto_1767906954745_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767906809227_1",
+      "id": "q_auto_1767906954745_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767906809227_2",
+      "id": "q_auto_1767906954745_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
