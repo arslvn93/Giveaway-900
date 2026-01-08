@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767906740231_0",
+      "id": "q_auto_1767906809227_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767906740231_1",
+      "id": "q_auto_1767906809227_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767906740231_2",
+      "id": "q_auto_1767906809227_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the <strong>A Valentine’s Date Night, On Us</strong> has been received. Complete your entry below to be eligible for the Feb 5 draw.",
+    "mainMessage": "Your information for the <strong>Valentine’s Date Night</strong> has been received. Complete your entry below to be eligible for the Feb 5 draw.",
     "socialPromptText": "Follow @thepriorgroup on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
