@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767899287660_0",
+      "id": "q_auto_1767905476447_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767899287660_1",
+      "id": "q_auto_1767905476447_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767899287660_2",
+      "id": "q_auto_1767905476447_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -265,13 +265,13 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/ThePriorGroupRealEstate/",
+      "facebook": "",
       "instagram": "https://www.instagram.com/thepriorgroup"
     },
     "agentContact": {
       "name": "Michael Prior",
       "title": "REALTOR",
-      "phone": "6473767367",
+      "phone": "(647) 376-7367",
       "email": "mike@thepriorgroup.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Michael Prior at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-05. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
