@@ -37,11 +37,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/2qwcwprk6srme0cv6wm93vbewg.jpg",
+        "src": "https://i.ibb.co/Cs7G41yL/Lardo-2025-10-25-022.webp",
         "alt": "Cozy table for two at Lardo on Valentine’s Day"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/72fabkkwsnrma0cv6wma0rva6w.jpg",
+        "src": "https://i.ibb.co/CKjM9q5v/Screenshot-2026-01-08-at-2-26-34-PM.png",
         "alt": "Beautiful plated dishes at a romantic restaurant"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767905714222_0",
+      "id": "q_auto_1767906329418_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767905714222_1",
+      "id": "q_auto_1767906329418_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767905714222_2",
+      "id": "q_auto_1767906329418_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
