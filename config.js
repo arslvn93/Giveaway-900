@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In!",
-    "mainMessage": "Your entry for <strong>A Valentine’s Date Night, On Us</strong> is set. We’ll draw on Feb 5, 2026 and email the winner. Good luck!",
-    "socialPromptText": "Watch your email on Feb 5. Follow us on Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -59,11 +54,26 @@ const config = {
       }
     ],
     "includedItems": [
-      { "icon": "fas fa-gift", "text": "$300 Lardo gift card for dinner and treats" },
-      { "icon": "fas fa-calendar-check", "text": "Reservation for 2 on Valentine’s Day (time to be confirmed)" },
-      { "icon": "fas fa-utensils", "text": "Enjoy a top local spot loved by our community" },
-      { "icon": "fas fa-heart", "text": "A fun, no-stress night you’ll both love" },
-      { "icon": "fas fa-map-marker-alt", "text": "Easy night out close to home" }
+      {
+        "icon": "fas fa-gift",
+        "text": "$300 Lardo gift card for dinner and treats"
+      },
+      {
+        "icon": "fas fa-calendar-check",
+        "text": "Reservation for 2 on Valentine’s Day (time to be confirmed)"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "text": "Enjoy a top local spot loved by our community"
+      },
+      {
+        "icon": "fas fa-heart",
+        "text": "A fun, no-stress night you’ll both love"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "text": "Easy night out close to home"
+      }
     ],
     "name": "Lardo Valentine’s Date Night Package",
     "value": "$300 Value",
@@ -73,30 +83,79 @@ const config = {
   },
   "howToEnter": {
     "steps": [
-      { "icon": "fas fa-edit", "title": "Fill the Form", "description": "Drop in your name and email. It takes 30 seconds." },
-      { "icon": "fas fa-check-circle", "title": "Answer 4 Quick Questions", "description": "Tell us about your next home goals. Simple and fast." },
-      { "icon": "fas fa-trophy", "title": "You’re Entered!", "description": "We draw on Feb 5 and email the winner." }
+      {
+        "icon": "fas fa-edit",
+        "title": "Fill the Form",
+        "description": "Drop in your name and email. It takes 30 seconds."
+      },
+      {
+        "icon": "fas fa-check-circle",
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us about your next home goals. Simple and fast."
+      },
+      {
+        "icon": "fas fa-trophy",
+        "title": "You’re Entered!",
+        "description": "We draw on Feb 5 and email the winner."
+      }
     ],
     "highlights": [
-      { "icon": "fas fa-clock", "text": "Quick 30-second entry" },
-      { "icon": "fas fa-gift", "text": "Free to enter" },
-      { "icon": "fas fa-star", "text": "Random, fair draw" },
-      { "icon": "fas fa-users", "text": "Perfect for couples" },
-      { "icon": "fas fa-shield-alt", "text": "Your info stays private" },
-      { "icon": "fas fa-bell", "text": "Winner emailed Feb 5" }
+      {
+        "icon": "fas fa-clock",
+        "text": "Quick 30-second entry"
+      },
+      {
+        "icon": "fas fa-gift",
+        "text": "Free to enter"
+      },
+      {
+        "icon": "fas fa-star",
+        "text": "Random, fair draw"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect for couples"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Your info stays private"
+      },
+      {
+        "icon": "fas fa-bell",
+        "text": "Winner emailed Feb 5"
+      }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents 18+.",
-    "showTipsSection": true,
     "faq": [
-      { "q": "Who can enter?", "a": "Ontario residents who are 18+." },
-      { "q": "What do I win?", "a": "A $300 Lardo gift card plus a Valentine’s Day reservation for 2. We will confirm the exact time with the winner." },
-      { "q": "Is Lardo part of this?", "a": "No. This giveaway is not sponsored by or affiliated with Lardo." },
-      { "q": "How will I know if I win?", "a": "We will email the winner on Feb 5, 2026. Please check your inbox and spam." },
-      { "q": "Can I enter more than once?", "a": "No. One entry per person to keep it fair." },
-      { "q": "Do I need to buy anything?", "a": "No purchase needed. Just enter the form." },
-      { "q": "What if I can’t make the reservation time?", "a": "We’ll share the time once set. The gift card is still yours to use under Lardo’s terms." }
+      {
+        "q": "Who can enter?",
+        "a": "Ontario residents who are 18+."
+      },
+      {
+        "q": "What do I win?",
+        "a": "A $300 Lardo gift card plus a Valentine’s Day reservation for 2. We will confirm the exact time with the winner."
+      },
+      {
+        "q": "Is Lardo part of this?",
+        "a": "No. This giveaway is not sponsored by or affiliated with Lardo."
+      },
+      {
+        "q": "How will I know if I win?",
+        "a": "We will email the winner on Feb 5, 2026. Please check your inbox and spam."
+      },
+      {
+        "q": "Can I enter more than once?",
+        "a": "No. One entry per person to keep it fair."
+      },
+      {
+        "q": "Do I need to buy anything?",
+        "a": "No purchase needed. Just enter the form."
+      },
+      {
+        "q": "What if I can’t make the reservation time?",
+        "a": "We’ll share the time once set. The gift card is still yours to use under Lardo’s terms."
+      }
     ],
     "tips": [
       "Double-check your email for typos—make sure you can be reached",
@@ -104,6 +163,8 @@ const config = {
       "Share with friends who’d love a date night, too",
       "Follow Michael Prior on Instagram or Facebook for the winner post"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents 18+.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw tool. Every valid entry has the same chance. One entry per person keeps it fair."
@@ -124,36 +185,84 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1767899025094_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
-        { "value": "The location", "text": "The location" },
-        { "value": "The layout", "text": "The layout" },
-        { "value": "The finishes (paint, lighting, etc.)", "text": "The finishes (paint, lighting, etc.)" },
-        { "value": "The outdoor space", "text": "The outdoor space" }
+        {
+          "value": "The location",
+          "text": "The location"
+        },
+        {
+          "value": "The layout",
+          "text": "The layout"
+        },
+        {
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
+        },
+        {
+          "value": "The outdoor space",
+          "text": "The outdoor space"
+        }
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1767899025094_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
-        { "value": "Yes, sometime in 2025", "text": "Yes, sometime in 2025" },
-        { "value": "Yes, in the next 1 - 2 years", "text": "Yes, in the next 1 - 2 years" },
-        { "value": "Not at the moment", "text": "Not at the moment" },
-        { "value": "I’m not sure yet", "text": "I’m not sure yet" }
+        {
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
+        },
+        {
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
+        },
+        {
+          "value": "Not at the moment",
+          "text": "Not at the moment"
+        },
+        {
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
+        }
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1767899025094_2",
       "questionText": "What’s your current housing situation?",
       "options": [
-        { "value": "I rent and am interested in buying", "text": "I rent and am interested in buying" },
-        { "value": "I own and might sell within 2 years", "text": "I own and might sell within 2 years" },
-        { "value": "I own and am happy where I am", "text": "I own and am happy where I am" },
-        { "value": "I’m actively looking to buy or sell now", "text": "I’m actively looking to buy or sell now" }
+        {
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
+        },
+        {
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
+        },
+        {
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
+        },
+        {
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In!",
+    "mainMessage": "Your entry for <strong>A Valentine’s Date Night, On Us</strong> is set. We’ll draw on Feb 5, 2026 and email the winner. Good luck!",
+    "socialPromptText": "Watch your email on Feb 5. Follow us on Instagram and Facebook for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/mikeyprior/",
@@ -167,7 +276,7 @@ const config = {
     },
     "footerDisclaimer": "This giveaway is sponsored by Michael Prior at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-05. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1764365251120-The%20Prior%20Group-8.jpg",
-    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1764365247331-TPGDoorDecalFinal%20(1).png",
+    "secondaryLogoUrl": "https://i.ibb.co/PZXxfR2P/Untitled-design-52.png",
     "secondaryLogoAlt": "Michael Prior",
     "organizerName": "Michael Prior",
     "brokerageName": "Revel Realty Inc., Brokerage",
