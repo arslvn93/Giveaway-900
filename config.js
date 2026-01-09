@@ -77,7 +77,7 @@ const config = {
     ],
     "name": "Lardo Valentine’s Date Night Package",
     "value": "$300 Value",
-    "description": "Picture this: a cozy table for two, warm lights, and plates you can’t stop talking about. Lardo is a local favorite near our office. It feels special, not stuffy. We’ll set the reservation for Valentine’s Day so you can just show up and enjoy. You pick what you love. We pick up the bill.",
+    "description": "Picture this: a cozy table for two, warm lights, and plates you can’t stop talking about. Lardo is a local favorite near our office. It feels special. We’ll set the reservation for Valentine’s Day so you can just show up and enjoy. You pick what you love. We pick up the bill.",
     "limitedTimeOfferText": "One Valentine’s winner. Ends soon!",
     "ctaButtonText": "I Want This Date Night!"
   },
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767995428814_0",
+      "id": "q_auto_1767995470278_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995428814_1",
+      "id": "q_auto_1767995470278_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995428814_2",
+      "id": "q_auto_1767995470278_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
