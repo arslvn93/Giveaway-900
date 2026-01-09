@@ -84,7 +84,7 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fa fa-instagram",
+        "icon": "fa-brands fa-instagram",
         "title": "Follow us on Instagram",
         "description": "Follow us @thepriorgroup"
       },
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767995605699_0",
+      "id": "q_auto_1767995640089_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995605699_1",
+      "id": "q_auto_1767995640089_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995605699_2",
+      "id": "q_auto_1767995640089_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
