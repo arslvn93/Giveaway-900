@@ -24,7 +24,7 @@ const config = {
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
-    "theme": "light",
+    "theme": "pastel",
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767995314635_0",
+      "id": "q_auto_1767995355480_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995314635_1",
+      "id": "q_auto_1767995355480_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995314635_2",
+      "id": "q_auto_1767995355480_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
