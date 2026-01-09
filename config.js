@@ -84,9 +84,9 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Form",
-        "description": "Drop in your name and email. It takes 30 seconds."
+        "icon": "fa fa-instagram",
+        "title": "Follow us on Instagram",
+        "description": "Follow us @thepriorgroup"
       },
       {
         "icon": "fas fa-check-circle",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1767995470278_0",
+      "id": "q_auto_1767995605699_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995470278_1",
+      "id": "q_auto_1767995605699_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1767995470278_2",
+      "id": "q_auto_1767995605699_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
