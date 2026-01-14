@@ -45,11 +45,11 @@ const config = {
         "alt": "Beautiful plated dishes at a romantic restaurant"
       },
       {
-        "src": "https://i.ibb.co/KxrzcRtj/SG-Webinar-Builder-Template.png",
+        "src": "https://i.ibb.co/svR3MQBj/The-Prior-Group-Team-Photo.jpg",
         "alt": "Couple enjoying a dinner date night"
       },
       {
-        "src": "https://i.ibb.co/svR3MQBj/The-Prior-Group-Team-Photo.jpg",
+        "src": "https://i.ibb.co/KxrzcRtj/SG-Webinar-Builder-Template.png",
         "alt": "Warm ambient dining room perfect for celebrations"
       }
     ],
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768413297084_0",
+      "id": "q_auto_1768413358354_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768413297084_1",
+      "id": "q_auto_1768413358354_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768413297084_2",
+      "id": "q_auto_1768413358354_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
