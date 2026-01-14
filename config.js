@@ -45,11 +45,11 @@ const config = {
         "alt": "Beautiful plated dishes at a romantic restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/7c370fq31drm80cv6wmb2s2dpw.jpg",
+        "src": "https://www.thepriorgroup.com/wp-content/uploads/2021/12/Team-Menu-e1639414861940.jpg",
         "alt": "Couple enjoying a dinner date night"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fjx7pqa7y9rma0cv6wmtgjqgdw.jpg",
+        "src": "https://www.thepriorgroup.com/wp-content/uploads/2021/12/Team-Menu-e1639414861940.jpg",
         "alt": "Warm ambient dining room perfect for celebrations"
       }
     ],
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768405580326_0",
+      "id": "q_auto_1768405686778_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405580326_1",
+      "id": "q_auto_1768405686778_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405580326_2",
+      "id": "q_auto_1768405686778_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
