@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768405951958_0",
+      "id": "q_auto_1768406022882_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405951958_1",
+      "id": "q_auto_1768406022882_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405951958_2",
+      "id": "q_auto_1768406022882_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -269,10 +269,10 @@ const config = {
       "instagram": "https://www.instagram.com/thepriorgroup"
     },
     "agentContact": {
-      "name": "Michael Prior",
-      "title": "REALTOR",
-      "phone": "(647) 376-7367",
-      "email": "mike@thepriorgroup.com"
+      "name": "The Prior Group",
+      "title": "Revel Realty Inc., Brokerage",
+      "phone": "(416) 530-4444",
+      "email": "info@thepriorgroup.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by The Prior Group at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-05. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://www.thepriorgroup.com/wp-content/uploads/2021/07/prior_group_logo-horizontal.svg",
@@ -281,8 +281,8 @@ const config = {
     "organizerName": "The Prior Group",
     "brokerageName": "Revel Realty Inc., Brokerage",
     "address": "848 College St",
-    "email": "mike@thepriorgroup.com",
-    "phone": "(647) 376-7367",
+    "email": "info@thepriorgroup.com",
+    "phone": "(416) 530-4444",
     "copyrightOwner": "The Prior Group"
   },
   "deploymentInfo": {
