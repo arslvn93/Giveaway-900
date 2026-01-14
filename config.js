@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768405789690_0",
+      "id": "q_auto_1768405875266_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405789690_1",
+      "id": "q_auto_1768405875267_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405789690_2",
+      "id": "q_auto_1768405875267_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -275,7 +275,7 @@ const config = {
       "email": "mike@thepriorgroup.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by The Prior Group at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-05. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "https://i.ibb.co/84PHH8y8/prior-group-logo-horizontal.jpg",
+    "organizerLogoUrl": "https://www.thepriorgroup.com/wp-content/uploads/2021/07/prior_group_logo-horizontal.svg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/headshots/1764365251120-The%20Prior%20Group-8.jpg",
     "secondaryLogoAlt": "The Prior Group",
     "organizerName": "The Prior Group",
