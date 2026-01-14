@@ -41,7 +41,7 @@ const config = {
         "alt": "Cozy table for two at Lardo on Valentine’s Day"
       },
       {
-        "src": "https://i.ibb.co/Q3GY8RQc/DINNER.webp",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fjx7pqa7y9rma0cv6wmtgjqgdw.jpg",
         "alt": "Beautiful plated dishes at a romantic restaurant"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768405686778_0",
+      "id": "q_auto_1768405716272_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405686778_1",
+      "id": "q_auto_1768405716272_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768405686778_2",
+      "id": "q_auto_1768405716272_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
