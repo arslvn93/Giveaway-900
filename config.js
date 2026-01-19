@@ -8,14 +8,14 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>$300 to Lardo</span> for Valentine’s Date Night!",
     "heroSubheadline": "Treat your partner to dinner for two with a Valentine’s Day reservation. Simple entry. Big night out. Ends Feb 5.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/avdzeqngfdrmc0cv6wksc6tpk4.jpg",
-    "promotionDates": "Promo starts Jan 16, 2026. Entries close Feb 5, 2026 at 11:59 PM ET. Winner announced Feb 9, 2026.",
+    "promotionDates": "Promo starts Jan 16, 2026. Entries close Feb 5, 2026 at 11:59 PM ET. Winner announced Feb 5, 2026.",
     "endDate": "2026-02-06T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Date Night!",
     "name": "A Valentine’s Date Night, On Us",
     "successModalHeaderText": "You’re In!",
-    "successModalMainMessage": "Your entry for <strong>A Valentine’s Date Night, On Us</strong> is set. We’ll draw on Feb 9, 2026 and email the winner. Good luck!",
-    "successModalEmailPrompt": "Watch your email on Feb 9. Follow us on Instagram and Facebook for the winner post."
+    "successModalMainMessage": "Your entry for <strong>A Valentine’s Date Night, On Us</strong> is set. We’ll draw on Feb 5, 2026 and email the winner. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Feb 5. Follow us on Instagram and Facebook for the winner post."
   },
   "settings": {
     "confettiColors": [
@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered!",
-        "description": "We draw on Feb 9 and email the winner."
+        "description": "We draw on Feb 5 and email the winner."
       }
     ],
     "highlights": [
@@ -122,7 +122,7 @@ const config = {
       },
       {
         "icon": "fas fa-bell",
-        "text": "Winner emailed Feb 9"
+        "text": "Winner emailed Feb 5"
       }
     ]
   },
@@ -142,7 +142,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "We will email the winner on Feb 9, 2026. Please check your inbox and spam."
+        "a": "We will email the winner on Feb 5, 2026. Please check your inbox and spam."
       },
       {
         "q": "Can I enter more than once?",
@@ -171,7 +171,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Email Notice",
-      "text": "We will email the winner on Feb 9, 2026. Check your inbox and spam. We will also share the winner on our social pages."
+      "text": "We will email the winner on Feb 5, 2026. Check your inbox and spam. We will also share the winner on our social pages."
     }
   },
   "entryForm": {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1768513934692_0",
+      "id": "q_auto_1768846917063_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768513934692_1",
+      "id": "q_auto_1768846917063_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1768513934692_2",
+      "id": "q_auto_1768846917063_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the <strong>Valentine’s Date Night</strong> has been received. Complete your entry below to be eligible for the Feb 9 draw.",
+    "mainMessage": "Your information for the <strong>Valentine’s Date Night</strong> has been received. Complete your entry below to be eligible for the Feb 5 draw.",
     "socialPromptText": "Follow @thepriorgroup on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
@@ -274,7 +274,7 @@ const config = {
       "phone": "(416) 530-4444",
       "email": "info@thepriorgroup.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by The Prior Group at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-09. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by The Prior Group at Revel Realty Inc., Brokerage and is not affiliated with Lardo, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-02-05 at 11:59 PM ET. Winner selected at random on 2026-02-05. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://i.ibb.co/xtSnVXMd/Giveaway-NEW-Creative-Promo-4.png",
     "secondaryLogoUrl": "https://i.ibb.co/svR3MQBj/The-Prior-Group-Team-Photo.jpg",
     "secondaryLogoAlt": "The Prior Group",
